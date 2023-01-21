@@ -1,0 +1,16 @@
+E:\škola\PRG\Tictactoe\TicTacToe\TicTacToe\bin\Debug\net5.0\TicTacToe.exe
+E:\škola\PRG\Tictactoe\TicTacToe\TicTacToe\bin\Debug\net5.0\TicTacToe.deps.json
+E:\škola\PRG\Tictactoe\TicTacToe\TicTacToe\bin\Debug\net5.0\TicTacToe.runtimeconfig.json
+E:\škola\PRG\Tictactoe\TicTacToe\TicTacToe\bin\Debug\net5.0\TicTacToe.runtimeconfig.dev.json
+E:\škola\PRG\Tictactoe\TicTacToe\TicTacToe\bin\Debug\net5.0\TicTacToe.dll
+E:\škola\PRG\Tictactoe\TicTacToe\TicTacToe\bin\Debug\net5.0\ref\TicTacToe.dll
+E:\škola\PRG\Tictactoe\TicTacToe\TicTacToe\bin\Debug\net5.0\TicTacToe.pdb
+E:\škola\PRG\Tictactoe\TicTacToe\TicTacToe\obj\Debug\net5.0\TicTacToe.csproj.AssemblyReference.cache
+E:\škola\PRG\Tictactoe\TicTacToe\TicTacToe\obj\Debug\net5.0\TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+E:\škola\PRG\Tictactoe\TicTacToe\TicTacToe\obj\Debug\net5.0\TicTacToe.AssemblyInfoInputs.cache
+E:\škola\PRG\Tictactoe\TicTacToe\TicTacToe\obj\Debug\net5.0\TicTacToe.AssemblyInfo.cs
+E:\škola\PRG\Tictactoe\TicTacToe\TicTacToe\obj\Debug\net5.0\TicTacToe.csproj.CoreCompileInputs.cache
+E:\škola\PRG\Tictactoe\TicTacToe\TicTacToe\obj\Debug\net5.0\TicTacToe.dll
+E:\škola\PRG\Tictactoe\TicTacToe\TicTacToe\obj\Debug\net5.0\ref\TicTacToe.dll
+E:\škola\PRG\Tictactoe\TicTacToe\TicTacToe\obj\Debug\net5.0\TicTacToe.pdb
+E:\škola\PRG\Tictactoe\TicTacToe\TicTacToe\obj\Debug\net5.0\TicTacToe.genruntimeconfig.cache
